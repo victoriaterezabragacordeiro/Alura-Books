@@ -7,4 +7,5 @@
 
 .cabeçalho {
     background-color: var(branco);
+    display: flex;
 }
